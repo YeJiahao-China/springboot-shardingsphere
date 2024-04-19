@@ -1,4 +1,5 @@
 springboot整合shardingsphere5.3.1 实现分表和读写分离
+MySQL地址端口自行修改
 
 sharding-all.yaml  分表+读写分离配置
 sharding-readwrite.yaml  读写分离配置
