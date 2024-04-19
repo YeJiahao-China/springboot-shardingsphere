@@ -1,0 +1,7 @@
+
+spring:
+  application:
+    name: mysql-cluster
+  datasource:
+    driver-class-name: org.apache.shardingsphere.driver.ShardingSphereDriver
+    url: jdbc:shardingsphere:classpath:sharding-all.yaml
